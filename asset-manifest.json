@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/monitorizare.github.io/static/css/main.7e4b6144.css",
+    "main.js": "/monitorizare.github.io/static/js/main.924865d8.js",
+    "index.html": "/monitorizare.github.io/index.html",
+    "main.7e4b6144.css.map": "/monitorizare.github.io/static/css/main.7e4b6144.css.map",
+    "main.924865d8.js.map": "/monitorizare.github.io/static/js/main.924865d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e4b6144.css",
+    "static/js/main.924865d8.js"
+  ]
+}
